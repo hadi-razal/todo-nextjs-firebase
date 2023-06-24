@@ -7,7 +7,7 @@ export default function App({ Component, pageProps }) {
     return (
         <>
             <Head>
-                <title>JS Dev - Todo App</title>
+                <title>Todo App By Hadi Razal</title>
             </Head>
             <AuthUserProvider>
                 <Component {...pageProps} />
